@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![12](https://share.weiyun.com/VAfsjf4t)
+![12](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1190977928,2209661127&fm=26&gp=0.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/SheungSze/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
